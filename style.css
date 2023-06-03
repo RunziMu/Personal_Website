@@ -1,0 +1,26 @@
+img {
+    border: 2px;
+    width: 100%;
+    max-width: 300px;
+    min-width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.personalInfo {
+    color: blue;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border-style: solid;
+    background-color: lightgray;
+}
+
+.about {
+    color: lightgreen;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-style: italic;
+    border-style: dashed;
+}
