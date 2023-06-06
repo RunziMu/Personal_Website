@@ -18,9 +18,13 @@ img {
 }
 
 .about {
-    color: lightgreen;
+    color: rgb(31, 87, 31);
     font-weight: bold;
     font-family: sans-serif;
     font-style: italic;
     border-style: dashed;
+    text-align: center;
+}
+body {
+    background-color: rgb(249, 224, 228);
 }
